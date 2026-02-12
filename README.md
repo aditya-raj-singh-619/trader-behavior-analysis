@@ -43,3 +43,9 @@ Methodology:
    4.Bonus
        1.Built a simple predictive model for profitability
        2.Applied KMeans clustering to identify behavioral archetypes
+
+
+## How to Run
+1. Install requirements:
+   pip install pandas numpy matplotlib scikit-learn
+2. Open notebook and run all cells.
